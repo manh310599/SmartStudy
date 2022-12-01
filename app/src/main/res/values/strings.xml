@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My ApplicationSmartStudy</string>
+    <string name="your_web_client_id">108040658878-u9f2bmrgvlvc0ci9ctefumu59ia4ka8r.apps.googleusercontent.com</string>
+    <string name="menu_dashboard">Trang chủ</string>
+    <string name="menu_leaderboard">Tra nghĩa</string>
+    <string name="menu_store">Học phần</string>
+    <string name="menu_profile">Hồ sơ</string>
+    <string name="title_activity_bottom_bar">Bottom_Bar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
